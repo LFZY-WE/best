@@ -4,7 +4,7 @@ cf.877774.xyz
 www.ntu.edu.sg
 cloudflare-ip.mofashi.ltd
 serviceshub.samsclub.com
-speed.marisalnc.com
+cfip.xxxxxxxx.tk
 freeyx.cloudflare88.eu.org
 yg1.ygkkk.dpdns.org
 cdns.doon.eu.org
