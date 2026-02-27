@@ -1,10 +1,8 @@
 lfzy.cloudflare.182682.xyz
 youxuan.cf.090227.xyz
-cf.877774.xyz
 www.ntu.edu.sg
 cloudflare-ip.mofashi.ltd
 serviceshub.samsclub.com
-cfip.xxxxxxxx.tk
 freeyx.cloudflare88.eu.org
 yg1.ygkkk.dpdns.org
 cdns.doon.eu.org
