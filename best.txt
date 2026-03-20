@@ -1,8 +1,6 @@
 lfzy.cloudflare.182682.xyz
 cloudflare-ip.mofashi.ltd
 cf.zhetengsha.eu.org
-cdn.2020111.xyz
-cf.090227.xyz
 freeyx.cloudflare88.eu.org
 yg1.ygkkk.dpdns.org
 cdns.doon.eu.org
