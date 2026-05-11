@@ -1,9 +1,8 @@
-lfzy.cloudflare.182682.xyz
+cf.cloudflare.182682.xyz
+youxuan.cf.090227.xyz
 cloudflare-ip.mofashi.ltd
-cf.zhetengsha.eu.org
 freeyx.cloudflare88.eu.org
 yg1.ygkkk.dpdns.org
-cdns.doon.eu.org
-cf.tencentapp.cn
 saas.sin.fan
+cf.tencentapp.cn
 www.visa.cn
