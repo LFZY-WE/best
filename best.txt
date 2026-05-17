@@ -3,7 +3,6 @@ youxuan.cf.090227.xyz
 cdn.2020111.xyz
 cloudflare-ip.mofashi.ltd
 freeyx.cloudflare88.eu.org
-xn--b6gac.eu.org
 yg1.ygkkk.dpdns.org
 saas.sin.fan
 cf.tencentapp.cn
